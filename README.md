@@ -2,7 +2,15 @@
 
 # ItsRealSunder
 
-<img src="YOUR_MINECRAFT_BANNER_OR_GIF" width="700"/>
+<img src="https://i.redd.it/4ec77oea73c41.gif" width="300"/>
+
+<br>
+
+<a href="https://discord.com/users/1425100026022985788">
+<img src="https://lanyard.cnrad.dev/api/1425100026022985788?theme=dark&animated=true&hideDiscrim=true&borderRadius=20px&bg=0d1117"/>
+</a>
+
+<br><br>
 
 AI Developer • Full-Stack Developer • Video Editor
 
@@ -14,19 +22,16 @@ AI Developer • Full-Stack Developer • Video Editor
 
 ```yaml
 Name: Sunder
-Age: 15
+Age: 16
 Location: Azerbaijan
 
-Focus:
-  - AI Development
-  - Full Stack Web Development
-  - Video Editing
+Roles:
+  - AI Developer
+  - Full-Stack Developer
+  - Video Editor
 
-Interests:
-  - Minecraft
-  - UI / UX
-  - Automation
-  - Open Source
+Currently Learning:
+  - Nothing
 ```
 
 ---
@@ -34,25 +39,39 @@ Interests:
 # Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,cs,rust,kotlin,swift"/>
+
 </p>
+
+---
 
 # Frameworks & Libraries
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express"/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind"/>
+
 </p>
+
+---
 
 # Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/>
+
 </p>
+
+---
 
 # Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,blender,vercel"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,figma,blender,vercel,cloudflare"/>
+
 </p>
 
 ---
@@ -98,5 +117,21 @@ Interests:
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRealSunder&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsRealSunder&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ItsRealSunder&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsRealSunder&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ItsRealSunder&style=for-the-badge&color=blue"/>
 
 </div>
