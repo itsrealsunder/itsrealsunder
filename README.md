@@ -2,7 +2,7 @@
 
 # ItsRealSunder
 
-<img width="400" height="300" alt="Minecraft_Screenshot_2026 06 11_-_17 42 51 32" src="https://github.com/user-attachments/assets/0ab845a2-fd2c-4944-a236-9a7b8a681645" />
+<img width="600" height="400" alt="Minecraft_Screenshot_2026 06 11_-_17 42 51 32" src="https://github.com/user-attachments/assets/0ab845a2-fd2c-4944-a236-9a7b8a681645" />
 
 <br>
 
